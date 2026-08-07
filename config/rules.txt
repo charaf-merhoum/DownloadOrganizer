@@ -1,0 +1,10 @@
+Math: Algebra, Analysis, Calculus
+Physics: Mechanics, Optics
+CS: Algorithms, C++, Python,.cpp,.c
+Images:jpg,jpeg,png,gif,bmp
+Documents:pdf,doc,docx,txt
+Audio:mp3,wav,flac,aac
+Archives:zip,rar,7z,tar,gz
+SourceCode:cpp,h,hpp,cs,py,java
+Spreadsheets:xls,xlsx,csv
+Presentations:ppt,pptx
